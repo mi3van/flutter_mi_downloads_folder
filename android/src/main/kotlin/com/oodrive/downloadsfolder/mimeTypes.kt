@@ -32,5 +32,5 @@ private val mimeTypes = mapOf(
     "pdf" to "application/pdf",
     "xlsx" to "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     "txt" to "text/plain",
-    "fl" to "application/x-android-drm-fl"
+    "mm" to "application/x-freemind"
 )
