@@ -45,8 +45,6 @@ flutter:
         pluginClass: DownloadsfolderPlugin
       ios:
         pluginClass: DownloadsfolderPlugin
-      linux:
-        default_package: path_provider
       macos:
         pluginClass: DownloadsfolderPlugin
       windows:
