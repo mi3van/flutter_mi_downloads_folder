@@ -45,7 +45,6 @@ flutter:
         pluginClass: DownloadsfolderPlugin
       ios:
         pluginClass: DownloadsfolderPlugin
-      #linux:  TODO find away to show the linux tag on pub.dev
       macos:
         pluginClass: DownloadsfolderPlugin
       windows:
