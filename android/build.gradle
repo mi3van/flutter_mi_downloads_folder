@@ -29,7 +29,7 @@ android {
         namespace 'com.oodrive.downloadsfolder'
     }
 
-    compileSdk = 34
+    compileSdk = flutter.compileSdkVersion
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
